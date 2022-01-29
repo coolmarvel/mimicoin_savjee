@@ -16,6 +16,8 @@
 
 ---
 
+이거 실행할라면 node버전 14로 내리고 node-sass@14.15.0 깔아야함 개어려움
+
 
 Angular application that allows you to interact with a blockchain. You can see the blocks on chain, see transaction within them and even create new transactions and mine blocks.
 
