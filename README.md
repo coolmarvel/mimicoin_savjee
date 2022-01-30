@@ -3,7 +3,7 @@
  <img width=450px height=200px src="https://savjee.github.io/savjeecoin-frontend/assets/img/github-project-logo.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">SavjeeCoin Frontend</h3>
+<h3 align="center">MIMICoin Frontend</h3>
 
 <div align="center">
 
@@ -30,13 +30,15 @@ Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Block
 Get a copy of the SavjeeCoin front-end running on your local machine (for playing around, testing or development).
 
 ```
-git clone https://github.com/Savjee/savjeecoin-frontend.git
+git clone https://github.com/coolmarvel/mimicoin_savjee.git
 ```
 
 Install the dependencies:
 ```
-cd savjeecoin-frontend
+cd mimicoin_savjee
 npm install
+npm uninstall node-sass
+npm install node-sass@4.15.0
 ```
 
 Run the application:
