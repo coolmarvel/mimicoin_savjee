@@ -38,7 +38,7 @@ Install the dependencies:
 cd mimicoin_savjee
 npm install
 npm uninstall node-sass
-npm install node-sass@4.15.0
+npm install node-sass@14.15.0
 ```
 
 Run the application:
